@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minh Nguyen</h1>
+<h1 align="center">Hi 👋, I'm Minh Quan Nguyen</h1>
 <h3 align="center">I am a Backend Developer</h3>
 
 - 🌱 I’m currently studying at **Houston City College**
